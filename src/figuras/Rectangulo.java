@@ -19,6 +19,7 @@ public class Rectangulo {
 		return this.alto *2 + this.ancho * 2;
 	}
 	
+	//Comentario para github
 	public double getArea() {
 		return this.alto  * this.ancho ;
 	}
